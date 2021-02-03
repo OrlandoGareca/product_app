@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SocialAPP</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">contraseña</string>
+    <string name="btn_login">INICIAR SESION</string>
+    <string name="textview">Si no tienes cuenta, registrate aqui</string>
+    <string name="txt_go_login">Si ya dispone de una cuenta, inicie sesion aqui.</string>
+    <string name="btn_signup">REGISTRARME</string>
+    <string name="user_name">Nombre de Usuario</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="toolbar_title_home">Inicio</string>
+</resources>
